@@ -116,11 +116,13 @@ main p {
 @media (max-width: 935px) {
 
     main video {
-        width: 500px;
+        width: 100%;
+        margin: 10px auto;
     }
     
     main p {
-        width: 500px;
+        width: 80%;
+        margin: 10px auto 10px;
     }
     
 }
